@@ -62,9 +62,7 @@ params: [
 
 A simple message signing SSO: TBD
 
-### Usage
-
-#### Cross-window messageListener
+#### Cross-window messageListener Usage
 
 * Application is opened from another page. Signature JSON payload is received as a message event
 
@@ -80,11 +78,11 @@ window.addEventListener('message', function receiveSig(event) {
 
 `ref` parameter might be mandatory if referrer is not properly attached.
 
-#### Callback URL
+#### Callback URL Usage
 
 * Signature JSON payload is sent to specified URL callback endpoint (POST method). Optional `redirectURL` can be specified to redirect
 
-### Parameters
+#### Parameters
 
 | Parameter     | type    | description                                                                                                                            |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,7 +94,7 @@ window.addEventListener('message', function receiveSig(event) {
 
 
 
-### Response format
+#### Response format
 
 Response JSON payload:
 
