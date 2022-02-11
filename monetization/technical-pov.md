@@ -38,4 +38,4 @@ This method is less user-friendly than the "Credit System", but also requires sl
 
 ### (bonus option) Payment gateway
 
-TBD
+TBA

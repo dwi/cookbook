@@ -14,7 +14,7 @@ At least 10% of all revenue must be burned (SLP) or go into the community treasu
 
 ### How to burn or send to treasury
 
-**SLP:** Burned by sending tokens to `0x0000000000000000000000000000000000000000` address. The [SLP contract ABI](../axie-developers-cookbook/run-a-ronin-node.md#contract-abi) also have function `burn(_value)` that does the same thing.
+**SLP:** Burned by sending tokens to `0x0000000000000000000000000000000000000000` address. The [SLP contract ABI](../developers-cookbook/run-a-ronin-node.md#contract-abi) also have function `burn(_value)` that does the same thing.
 
 **AXS:** Treasury address is `0xa99cacd1427f493a95b585a5c7989a08c86a616b`
 

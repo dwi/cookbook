@@ -11,7 +11,7 @@ description: >-
 Official guide on how to run your own Ronin node
 
 {% embed url="https://litepaper.roninchain.com/validators/running-a-ronin-node" %}
-Running a Ronin Node
+[https://litepaper.roninchain.com/validators/running-a-ronin-node](https://litepaper.roninchain.com/validators/running-a-ronin-node)
 {% endembed %}
 
 ### Contract ABI

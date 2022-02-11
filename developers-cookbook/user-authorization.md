@@ -60,19 +60,19 @@ params: [
 
 ### Official message signing solution by AxieDAO
 
-A simple message signing SSO: TBD
+A simple message signing SSO: TBA
 
 #### Cross-window messageListener Usage
 
 * Application is opened from another page. Signature JSON payload is received as a message event
 
 ```javascript
-let RoninSignatureWindow = window.open('http://localhost:3000/?ref='+window.parent.location.href)
+let RoninSignatureWindow = window.open('https://TBA/?ref='+window.parent.location.href)
 window.addEventListener('message', function receiveSig(event) {
-	if (typeof event.data === 'object' && 'key' in event.data && event.data.key === 'signature') {
-		window.removeEventListener('message', receiveSig, false); // Remove listener
-		const signature = event.data.message; // Actual signature payload
-	}
+  if (typeof event.data === 'object' && 'key' in event.data && event.data.key === 'signature') {
+    window.removeEventListener('message', receiveSig, false); // Remove listener
+    const signature = event.data.message; // Actual signature payload
+  }
 });
 ```
 

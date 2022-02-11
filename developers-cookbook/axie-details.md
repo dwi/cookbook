@@ -12,9 +12,11 @@ Use [`GetAxieBriefList`](https://axie-graphql.web.app/operations/getAxieBriefLis
 
 ### Community made API
 
-Our community developers Explorer and MaxBrand99 developed a bunch of freely available API functions for anyone to use. All possible API calls are described in their documentation [here](https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28):
+Our community developers Explorer and MaxBrand99 developed a bunch of freely available API functions for anyone to use. All possible API calls are described in their documentation [here](https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28):&#x20;
 
 {% embed url="https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28" %}
+[https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28](https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28)
+{% endembed %}
 
 
 

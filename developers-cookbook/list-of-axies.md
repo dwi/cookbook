@@ -10,9 +10,9 @@ Use [`GetAxieBriefList`](https://axie-graphql.web.app/operations/getAxieBriefLis
 
 {% hint style="info" %}
 Oneliner example: [https://axieinfinity.com/graphql-server-v2/graphql?query={axies(from:0,size:100,sort:IdAsc,owner:"0x3e429e444a8cb033c41e27f2752cf3ac54e39be1"){total,results{id\}}}](https://axieinfinity.com/graphql-server-v2/graphql?query={axies\(from:0,size:100,sort:IdAsc,owner:%220x3e429e444a8cb033c41e27f2752cf3ac54e39be1%22\){total,results{id\}}})&#x20;
+
+_**This is not the recommended way to work with GraphQL**_
 {% endhint %}
-
-
 
 ### Different API provider
 
