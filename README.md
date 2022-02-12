@@ -1,10 +1,10 @@
 ---
 description: Everything you need to know to start your community development adventure
-cover: .gitbook/assets/image.png
+cover: .gitbook/assets/image (1).png
 coverY: -20.395651896394835
 ---
 
-# Axie Developer's Cookbook
+# Developer's Cookbook
 
 Frequently asked questions about community development. Resources, guides and all the different things.
 
