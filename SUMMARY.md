@@ -11,3 +11,4 @@
   * [Basic mechanics](monetization/basic-mechanics.md)
   * [Technical PoV](monetization/technical-pov/README.md)
     * [DYOR](monetization/technical-pov/dyor.md)
+    * [Code snippets](monetization/technical-pov/code-snippets.md)

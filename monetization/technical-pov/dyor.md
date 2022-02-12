@@ -12,6 +12,10 @@ Ronin is Ethereum compatible network, so anything that works on Ethereum should 
 [https://ethereum.stackexchange.com/a/68866](https://ethereum.stackexchange.com/a/68866)
 {% endembed %}
 
+{% embed url="https://ethereum.stackexchange.com/questions/27805/how-to-programmatically-detect-and-accept-eth-and-erc20-deposits" %}
+[https://ethereum.stackexchange.com/questions/27805/how-to-programmatically-detect-and-accept-eth-and-erc20-deposits](https://ethereum.stackexchange.com/questions/27805/how-to-programmatically-detect-and-accept-eth-and-erc20-deposits)
+{% endembed %}
+
 {% embed url="https://ethereum.stackexchange.com/questions/18905/best-way-of-accepting-erc20-tokens-in-my-service" %}
 [https://ethereum.stackexchange.com/questions/18905/best-way-of-accepting-erc20-tokens-in-my-service](https://ethereum.stackexchange.com/questions/18905/best-way-of-accepting-erc20-tokens-in-my-service)
 {% endembed %}
@@ -37,6 +41,8 @@ GitHub: [https://github.com/emmonspired/erc20-digital-signature-verify](https://
 {% endembed %}
 
 ### Various implementation examples
+
+Different solutions I was able to find. This is for inspiration only.
 
 #### [**Ethereum-Blockchain-Wallet-Accounting**](https://github.com/remeshx/Ethereum-Blockchain-Wallet-Accounting)
 
