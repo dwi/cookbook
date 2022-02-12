@@ -6,6 +6,12 @@ Here is a list of various articles and repositories addressing this topic. I hop
 
 Ronin is Ethereum compatible network, so anything that works on Ethereum should at 99.99% work on Ronin as well.
 
+### First things to learn!
+
+Ethers.js - [https://docs.ethers.io/v5/](https://docs.ethers.io/v5/)
+
+Web3.js - [https://web3js.readthedocs.io/](https://web3js.readthedocs.io) (or Web3.py - [https://web3py.readthedocs.io/](https://web3py.readthedocs.io))&#x20;
+
 ### Articles & Discussions
 
 {% embed url="https://ethereum.stackexchange.com/a/68866" %}
