@@ -9,4 +9,5 @@
   * [Axie models and animations](developers-cookbook/axie-models-and-animations.md)
 * [Monetization](monetization/README.md)
   * [Basic mechanics](monetization/basic-mechanics.md)
-  * [Technical PoV](monetization/technical-pov.md)
+  * [Technical PoV](monetization/technical-pov/README.md)
+    * [DYOR](monetization/technical-pov/dyor.md)
