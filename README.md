@@ -6,7 +6,9 @@ coverY: -20.395651896394835
 
 # Developer's Cookbook
 
-Frequently asked questions about community development. Resources, guides and all the different things.
+{% hint style="success" %}
+Think of thos as a community knowledge base until there is official documentation.
+{% endhint %}
 
 {% embed url="https://axie.substack.com/p/axie-infinity-builders-program" %}
 Announcement article

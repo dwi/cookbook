@@ -1,4 +1,4 @@
-# DYOR
+# Blockchain and web3
 
 Processing ERC20 payments is not a simple straightforward process with one centralised solution (for now). Developers have to design and build their own "payment backend" connected to the Ronin network. Unfortunately there is no "ready-to-go" solution.
 
@@ -60,7 +60,7 @@ Backend with Nodejs to Process ERC20 Payments
 
 #### [**ERC20\_PaymentSystem**](https://github.com/salihcemil/ERC20\_PaymentSystem)
 
-#### ![](../../.gitbook/assets/image.png)
+#### ![](../.gitbook/assets/image.png)
 
 This is a basic online payment systme based on ERC20 tokens.
 
