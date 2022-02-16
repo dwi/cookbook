@@ -66,7 +66,7 @@ getWalletFromMnemonic("flock smart cost pumpkin wise machine grant picnic palace
 This node.js snippet uses the web3 library and monitors live ERC-20 token movements in the Ronin network.
 
 {% hint style="danger" %}
-* You must have WebSocket access to own node ([run-a-ronin-node.md](../developers-cookbook/run-a-ronin-node.md "mention")runnin locally in this example on `http://localhost:8546`)
+* You must have WebSocket access to own node (In this example [run-a-ronin-node.md](../developers-cookbook/run-a-ronin-node.md "mention")locally - RPC is available on`http://localhost:8546`)
 {% endhint %}
 
 ```javascript
