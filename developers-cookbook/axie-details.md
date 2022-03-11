@@ -29,7 +29,7 @@ Last option is complete on-chain Axie gene parsing, suited only to experienced u
 
 
     ```javascript
-    const axieState = await axieContract.methods.asxie(4950464).call()
+    const axieState = await axieContract.methods.axie(4950464).call()
 
     const x = BigInt(axieState.genes.x).toString(2).padStart(256, '0')
     const y = BigInt(axieState.genes.y).toString(2).padStart(256, '0')
