@@ -21,8 +21,9 @@ If you are looking for some example use cases in js/python/etc, then GitHub is a
 
 #### Axie Infinity's graphql endpoints
 
-* https://graphql-gateway.axieinfinity.com/graphql
-* https://axieinfinity.com/graphql-server-v2/graphql
+* `https://graphql-gateway.axieinfinity.com/graphql`
+
+
 
 ### Axie Infinity's GraphQL documentation
 
