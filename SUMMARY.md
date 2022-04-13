@@ -20,3 +20,4 @@
 
 * [Blockchain and web3](technology/blockchain-and-web3.md)
 * [Code snippets](technology/code-snippets.md)
+* [ERC721 Batch Transfer](technology/erc721-batch-transfer.md)
