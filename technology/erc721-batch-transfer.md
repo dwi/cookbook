@@ -19,7 +19,7 @@ description: >-
 * This method can be used to transfer multiple NFTs with the same contract to one recipient.
 * Requirements: `msg.sender` has to call setApprovalForAll on `_tokenContract` to authorize this contract.
 
-#### safeBatchTransfer(address, uint256\[] \_ids, address\[] \_recipients) (public)
+#### safeBatchTransfer(address \_tokenContract, uint256\[] \_ids, address\[] \_recipients)
 
 * Function Selector: ** `0xd56ad454`**
 * Signature: `safeBatchTransfer(address,uint256[],address[])`
