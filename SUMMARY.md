@@ -6,6 +6,7 @@
 * [Run a Ronin node](developers-cookbook/run-a-ronin-node.md)
 * [Learn about GraphQL](developers-cookbook/learn-about-graphql.md)
 * [User Authorization](developers-cookbook/user-authorization.md)
+* [AxieDAO SSO](developers-cookbook/axiedao-sso.md)
 * [List of Axies](developers-cookbook/list-of-axies.md)
 * [Axie details](developers-cookbook/axie-details.md)
 * [Axie models and animations](developers-cookbook/axie-models-and-animations.md)
