@@ -4,6 +4,8 @@ description: Get details of individual Axie(s)
 
 # Axie details
 
+###
+
 ### GraphQL query
 
 Use [`GetAxieBriefList`](https://axie-graphql.web.app/operations/getAxieBriefList\)) or [`GetAxieDetail`](https://axie-graphql.web.app/operations/getAxieDetail) orperation ([learn-about-graphql.md](learn-about-graphql.md "mention"))
@@ -14,11 +16,9 @@ Use [`GetAxieBriefList`](https://axie-graphql.web.app/operations/getAxieBriefLis
 
 Our community developers Explorer and MaxBrand99 developed a bunch of freely available API functions for anyone to use. All possible API calls are described in their documentation [here](https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28):&#x20;
 
-{% embed url="https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28" %}
-[https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28](https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-05870c1221cc4fd0b702e9d0ec7daa28)
+{% embed url="https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-V2-Explanations-d6e4c082ddb24620825e31334d4c39cd" %}
+[https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-V2-Explanations-d6e4c082ddb24620825e31334d4c39cd](https://maxbrand99.notion.site/Sky-Mavis-Game-API-Proxies-V2-Explanations-d6e4c082ddb24620825e31334d4c39cd)
 {% endembed %}
-
-
 
 ### Direct Ronin on-chain query
 
