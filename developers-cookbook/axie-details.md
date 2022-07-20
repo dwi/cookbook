@@ -10,6 +10,10 @@ description: Get details of individual Axie(s)
 
 Use [`GetAxieBriefList`](https://axie-graphql.web.app/operations/getAxieBriefList\)) or [`GetAxieDetail`](https://axie-graphql.web.app/operations/getAxieDetail) orperation ([learn-about-graphql.md](learn-about-graphql.md "mention"))
 
+{% embed url="https://docs.skymavis.com/mixer/genes" %}
+[https://docs.skymavis.com/mixer/genes](https://docs.skymavis.com/mixer/genes)
+{% endembed %}
+
 ####
 
 ### Community made API

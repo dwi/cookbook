@@ -11,12 +11,6 @@
 * [Axie details](developers-cookbook/axie-details.md)
 * [Axie models and animations](developers-cookbook/axie-models-and-animations.md)
 
-## 💱 Monetization
-
-* [Overview](monetization/overview.md)
-* [Basic mechanics](monetization/basic-mechanics.md)
-* [Implementation options](monetization/implementation-options.md)
-
 ## 💻 Technology
 
 * [Blockchain and web3](technology/blockchain-and-web3.md)

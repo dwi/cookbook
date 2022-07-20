@@ -6,12 +6,14 @@ description: >-
 
 # Run a Ronin node
 
+###
+
 ### Run your own Ronin node
 
 Official guide on how to run your own Ronin node
 
-{% embed url="https://litepaper.roninchain.com/validators/running-a-ronin-node" %}
-[https://litepaper.roninchain.com/validators/running-a-ronin-node](https://litepaper.roninchain.com/validators/running-a-ronin-node)
+{% embed url="https://docs.roninchain.com/docs/developer-guide/running-non-validating-node" %}
+[https://docs.roninchain.com/docs/developer-guide/running-non-validating-node](https://docs.roninchain.com/docs/developer-guide/running-non-validating-node)
 {% endembed %}
 
 ### Contract ABI
