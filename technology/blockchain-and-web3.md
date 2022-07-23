@@ -10,7 +10,7 @@ Ronin is Ethereum compatible network, so anything that works on Ethereum should 
 
 Ethers.js - [https://docs.ethers.io/v5/](https://docs.ethers.io/v5/)
 
-Web3.js - [https://web3js.readthedocs.io/](https://web3js.readthedocs.io/) (or Web3.py - [https://web3py.readthedocs.io/](https://web3py.readthedocs.io/))&#x20;
+Web3.js - [https://web3js.readthedocs.io/](https://web3js.readthedocs.io) (or Web3.py - [https://web3py.readthedocs.io/](https://web3py.readthedocs.io))&#x20;
 
 ### Articles & Discussions
 
@@ -68,7 +68,7 @@ In order to implement it, we used a sample ERC20 token (SMP) as the payment curr
 
 It can be assumed that the system has 3 different layers: blockchain layer, backend and frontend.
 
-#### [Hub20](https://hub20.io/) ([https://hub20.io/](https://hub20.io/))
+#### [Hub20](https://hub20.io) ([https://hub20.io/](https://hub20.io))
 
 Hub20 is an self-hosted online payment gateway that works with any Ethereum-compatible blockchain and integrates with different Layer-2 projects for fast and cheap payments.
 
@@ -80,7 +80,7 @@ Hub20 is an self-hosted online payment gateway that works with any Ethereum-comp
 
 Keyko Web3 Monitoring agent provides an intelligent software able to ingest blockchain information into Kafka. It listens for specified event emissions from the Ethereum network, and broadcasts these events into your middleware layer. It's also prepared to ingest network blocks and transactions. This provides a distinct separation of concerns and means that your microservices do not have to subscribe to events directly to an Ethereum node.
 
-#### [TrueBlocks](https://github.com/trueblocks/trueblocks-core) ([https://trueblocks.io/](https://trueblocks.io/))
+#### [TrueBlocks](https://github.com/trueblocks/trueblocks-core) ([https://trueblocks.io/](https://trueblocks.io))
 
 TrueBlocks is a collection of libraries, tools, and applications that improve access to the Ethereum data while remaining fully local. The interface is similar to the Ethereum RPC, but offers a number of improvements:
 

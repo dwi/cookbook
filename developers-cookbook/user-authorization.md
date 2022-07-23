@@ -30,12 +30,12 @@ With this method you can basically ask user to sign a message to verify his Roni
 
 Manually add Ronin network to MetaMask:
 
-| Network Name       | Ronin                                                                |
-| ------------------ | -------------------------------------------------------------------- |
-| RPC URL            | https://api.roninchain.com/rpc                                       |
-| Chain ID           | 2020                                                                 |
-| Currency Symbol    | RON                                                                  |
-| Block Explorer URL | [https://explorer.roninchain.com/](https://explorer.roninchain.com/) |
+| Network Name       | Ronin                                                               |
+| ------------------ | ------------------------------------------------------------------- |
+| RPC URL            | https://api.roninchain.com/rpc                                      |
+| Chain ID           | 2020                                                                |
+| Currency Symbol    | RON                                                                 |
+| Block Explorer URL | [https://explorer.roninchain.com/](https://explorer.roninchain.com) |
 
 Or use MetaMask's addEthereumChain API: [https://docs.metamask.io/guide/rpc-api.html#wallet-addethereumchain](https://docs.metamask.io/guide/rpc-api.html#wallet-addethereumchain)
 

@@ -12,7 +12,7 @@ GraphQL is a query language for APIs that allows clients to request exactly the 
 Learn more about GraphQL
 
 * [https://graphql.org/learn/](https://graphql.org/learn/)
-* [https://www.howtographql.com/](https://www.howtographql.com/)
+* [https://www.howtographql.com/](https://www.howtographql.com)
 * [https://hasura.io/learn/graphql/intro-graphql/introduction/](https://hasura.io/learn/graphql/intro-graphql/introduction/)
 
 {% hint style="info" %}
@@ -30,6 +30,6 @@ If you are looking for some example use cases in js/python/etc, then GitHub is a
 Unofficial community API Documentation for the Axie Infinity's GraphQL operations.
 
 {% embed url="https://axie-graphql.web.app" %}
-[https://axie-graphql.web.app/](https://axie-graphql.web.app/) - Credits to ShaneMaglangit for compiling this community guide
+[https://axie-graphql.web.app/](https://axie-graphql.web.app) - Credits to ShaneMaglangit for compiling this community guide
 {% endembed %}
 
