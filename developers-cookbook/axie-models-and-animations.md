@@ -17,7 +17,7 @@ Follow [official Axie Mixer documentation](https://docs.skymavis.com/mixer/intro
 ### Getting image using Python
 
 {% hint style="info" %}
-This method requires node and python
+This method requires node and python, credits to [Maxbrand99](https://twitter.com/maxbrand99)
 {% endhint %}
 
 Install Axie Mixer: `npm i @axieinfinity/mixer`
