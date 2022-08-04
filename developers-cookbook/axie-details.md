@@ -10,6 +10,10 @@ description: Get details of individual Axie(s)
 
 Use [`GetAxieBriefList`](https://axie-graphql.web.app/operations/getAxieBriefList\)) or [`GetAxieDetail`](https://axie-graphql.web.app/operations/getAxieDetail) orperation ([learn-about-graphql.md](learn-about-graphql.md "mention"))
 
+{% embed url="https://docs.skymavis.com/mixer/genes" %}
+[https://docs.skymavis.com/mixer/genes](https://docs.skymavis.com/mixer/genes)
+{% endembed %}
+
 ####
 
 ### Community made API
@@ -39,11 +43,7 @@ Last option is complete on-chain Axie gene parsing, suited only to experienced u
     ```
 
 
-3.  Use one of the existing community made libraries to parse this 512bit gene string into a human readable format. Credits to ShaneMaglangit for creating it!\
-
-
-    For node.js: [https://github.com/ShaneMaglangit/agp-npm](https://github.com/ShaneMaglangit/agp-npm)\
-    For go: [https://github.com/ShaneMaglangit/agp](https://github.com/ShaneMaglangit/agp)
+3. Use official [Axie Infinity Mixer](https://docs.skymavis.com/mixer/mixer-sdk/javascript-guide) to decode the genes.
 
 ### Get existing Axie card/move names
 
@@ -51,6 +51,6 @@ The list of existing body parts with their ID, class, special type and name is a
 
 {% embed url="https://raw.githubusercontent.com/freakitties/axieExt/master/body-parts.json" %}
 
-The list of actual cards and their stats/descriptions is here:
+The list of actual V2 cards and their stats/descriptions is here:
 
-{% embed url="https://storage.googleapis.com/axie-game-assets/card-abilities.json" %}
+{% embed url="https://storage.googleapis.com/axie-cdn/game/cards/card-abilities.json" %}
