@@ -16,7 +16,7 @@ _**This is not the recommended way to work with GraphQL**_
 
 ### Different API provider
 
-For example [CovalentHQ](https://www.covalenthq.com). Full documentation [here](https://www.covalenthq.com/docs/api/#/overview) (Ronin chain\_id: 2020)
+For example [CovalentHQ](https://www.covalenthq.com/). Full documentation [here](https://www.covalenthq.com/docs/api/#/overview) (Ronin chain\_id: 2020)
 
 Recommended to sign up on the site and generate your own unique API key. It is for free.
 
