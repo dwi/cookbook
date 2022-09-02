@@ -9,6 +9,7 @@
 * [List of Axies](developers-cookbook/list-of-axies.md)
 * [Axie details](developers-cookbook/axie-details.md)
 * [Axie models and animations](developers-cookbook/axie-models-and-animations.md)
+* [Axie Assets pack](developers-cookbook/axie-assets-pack.md)
 
 ## 💻 Technology
 
