@@ -6,11 +6,21 @@ description: >-
 
 # ERC721 Batch Transfer
 
+
+
 {% hint style="success" %}
-#### Contract Address: <mark style="color:blue;">**`0x2368dfED532842dB89b470fdE9Fd584d48D4F644`**</mark>
+Contract Address: <mark style="color:blue;">**`0x2368dfED532842dB89b470fdE9Fd584d48D4F644`**</mark>
 {% endhint %}
 
-### Functions
+### Bath Transfer Tool
+
+{% hint style="info" %}
+UI: [https://ronin.axiedao.org/nft-batch/](https://ronin.axiedao.org/nft-batch/)
+{% endhint %}
+
+<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+
+### Contract Functions
 
 #### safeBatchTransfer(address \_tokenContract, uint256\[] \_ids, address \_recipient)
 

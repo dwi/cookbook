@@ -158,4 +158,4 @@ getEvents('Transfer'); // Look for Transfer events
 
 Sample output:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
