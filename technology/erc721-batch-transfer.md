@@ -12,7 +12,7 @@ description: >-
 Contract Address: <mark style="color:blue;">**`0x2368dfED532842dB89b470fdE9Fd584d48D4F644`**</mark>
 {% endhint %}
 
-### Bath Transfer Tool
+### Batch Transfer Tool
 
 {% hint style="info" %}
 UI: [https://ronin.axiedao.org/nft-batch/](https://ronin.axiedao.org/nft-batch/)
