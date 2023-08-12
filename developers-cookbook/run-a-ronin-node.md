@@ -6,20 +6,8 @@ description: >-
 
 # Run a Ronin node
 
-###
+{% hint style="danger" %}
+This guide is deprecated, please use official Sky Mavis Developer Documentation
+{% endhint %}
 
-### Run your own Ronin node
-
-Official guide on how to run your own Ronin node
-
-{% embed url="https://docs.roninchain.com/docs/developer-guide/running-non-validating-node" %}
-[https://docs.roninchain.com/docs/developer-guide/running-non-validating-node](https://docs.roninchain.com/docs/developer-guide/running-non-validating-node)
-{% endembed %}
-
-### Contract ABI
-
-Public comunity repo with ABIs for most used smart contracts on Ronin
-
-{% embed url="https://github.com/axie-taxi/abi/tree/main/contracts" %}
-Community published ABIs, credits to mm116
-{% endembed %}
+{% embed url="https://docs.roninchain.com/docs/node-operators" %}

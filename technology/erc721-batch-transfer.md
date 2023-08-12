@@ -24,14 +24,14 @@ UI: [https://ronin.axiedao.org/nft-batch/](https://ronin.axiedao.org/nft-batch/)
 
 #### safeBatchTransfer(address \_tokenContract, uint256\[] \_ids, address \_recipient)
 
-* Function Selector: ** `0xf9fd92b9`**
+* Function Selector: **`0xf9fd92b9`**
 * Signature: `safeBatchTransfer(address,uint256[],address)`
 * This method can be used to transfer multiple NFTs with the same contract to one recipient.
 * Requirements: `msg.sender` has to call setApprovalForAll on `_tokenContract` to authorize this contract.
 
 #### safeBatchTransfer(address \_tokenContract, uint256\[] \_ids, address\[] \_recipients)
 
-* Function Selector: ** `0xd56ad454`**
+* Function Selector: **`0xd56ad454`**
 * Signature: `safeBatchTransfer(address,uint256[],address[])`
 * This method can be used to transfer multiple NFTs with the same contract to multiple recipients.
 * Requirements: `msg.sender` has to call setApprovalForAll on `_tokenContract` to authorize this contract.
